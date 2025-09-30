@@ -1,0 +1,16 @@
+{
+  "name": "think_tank",
+  "version": "1.0.0",
+  "description": "Proyecto de investigacion, dialogo y divulgacion en el ambito de violencias y derechos en Colombia",
+  "license": "ISC",
+  "author": "Jorge Chayan & Milagros Medina",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
